@@ -1,0 +1,9 @@
+
+>
+java:S1116("Remove this empty statement.(ôŸìúÿÿÿÿ8Î—Šè.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çİ°í8ºà±†è.
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(…Ò’ñşÿÿÿÿ8ºà±†è.
+>
+java:S1116$"Remove this empty statement.(ôŸìúÿÿÿÿ8ºà±†è.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(şÅÂ½ûÿÿÿÿ8ºà±†è.

@@ -1,0 +1,8 @@
+
+K
+java:S2115")Add password protection to this database.(—æÿîûÿÿÿÿ8ç°Æ†è.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(î¢Ë8ç°Æ†è.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(°Ù¯‚ÿÿÿÿÿ8ç°Æ†è.
+O
+java:S4925$"-Remove this "Class.forName()", it is useless.(´÷¾Ûıÿÿÿÿ8ç°Æ†è.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÄÛŸÌ8ÆòÁ†è.

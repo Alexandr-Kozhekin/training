@@ -1,0 +1,10 @@
+
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ΔΫΜ8Ύάθƒθ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(°Ω―‚ÿÿÿÿÿ8Ύάθƒθ.
+F
+java:S2115")Add password protection to this database.(ΘΓΡ¬8Ύάθƒθ.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ξΆΛ8Ύάθƒθ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Β‡ΛΨ8Ύάθƒθ.
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(΄χΎΫύÿÿÿÿ8Ύάθƒθ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ύ®µ8Ύάθƒθ.
